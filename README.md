@@ -1,13 +1,11 @@
 # 💫 About Me:
-🔭 I’m currently working as a Python Developer<br>👯 I’m looking to collaborate on Open Source porjects<br>💬 Ask me about Django, Flask, FaskAPI, Twilio, PostgreSQL, MySql, , Graphql<br>📫 How to reach me: ggohil2012@gmai.com<br>⚡ Motivation:
+🔭 I’m currently working as a Python Developer<br>👯 I’m looking to collaborate on Open Source porjects<br>💬 Ask me about Django, Flask, FaskAPI, Twilio, PostgreSQL, MySql, , Graphql<br>📫 How to reach me: iamdeveloperak@gmai.com<br>⚡ Motivation:
 
 ```javascript
-    while noSuccess(){
-    tryAgain()
-    if(Dead){
-    break;
-    }
-    }
+    while no_success:
+        try_again()
+        if dead:
+            break
 ```
 
 ## 🌐 Socials:
